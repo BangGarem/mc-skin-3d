@@ -137,7 +137,7 @@ if (!file_exists(__DIR__ . "/" . $skinPath)) {
 <div class="wrap">
 
   <div class="card">
-    <h3>Minecraft Skin</h3>
+    <h3>Minecraft Skin Viewer</h3>
 
     <div id="errBox" class="errorBox"></div>
 
