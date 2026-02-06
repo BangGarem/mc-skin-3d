@@ -9,11 +9,17 @@ Pengguna dapat mengunggah file skin mereka dan melihat model 3D secara interakti
 
 .
 ├── assets/ # Resource seperti skin default atau gambar pendukung
+
 ├── javascript/ # Script utama untuk menampilkan skin 3D
+
 ├── output/ # Hasil render / file yang ditampilkan setelah upload
+
 ├── uploads/ # Folder untuk menyimpan file skin yang di-upload
+
 ├── index.php # Halaman utama (form upload & viewer)
+
 ├── upload.php # Script backend untuk menghandle upload skin
+
 └── README.md # Dokumentasi proyek
 
 
